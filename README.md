@@ -6,9 +6,9 @@
 
 ## 🌱 About Me
 - I'm currently building **FinTrackr**, a Financial Tracking System with **React JS, Express JS, and PostgreSQL**.
-- Exploring **Web3** and deployment solutions like **Docker** and **Render**.
+- Exploring **New Technologies** and deployment solutions like **Docker**,**Pipeline**and **Render**.
 - Interested in **React, Java, Spring Boot**, and building **secure, scalable web applications**.
-- Fun fact: I turn **coffee into code**, one cup at a time ☕💻.
+- “Fueled by caffeine, powered by curiosity — I code my way through the universe ☕✨💻.”.
 
 ---
 
